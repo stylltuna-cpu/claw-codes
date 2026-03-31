@@ -1,5 +1,29 @@
 # Claude Code Source Snapshot for Security Research
+# Claude Codes — Revault Edition
 
+This is a customized version of the original Claude Code project, adapted and maintained by **0xKarl / Revault**.
+
+## About
+
+Claude Codes is an AI-assisted coding tool designed to help developers generate, refactor, and explore code from natural language prompts.
+
+## Features
+
+- CLI interface for code interaction
+- Context-aware editing
+- Integrated workflows
+
+## Disclaimer
+
+This version is independently maintained and is not affiliated with or endorsed by the original authors or Anthropic. :contentReference[oaicite:2]{index=2}
+
+## Usage
+
+(Add your own instructions here)
+
+---
+
+Maintained by: 0xKarl
 > This repository mirrors a **publicly exposed Claude Code source snapshot** that became accessible on **March 31, 2026** through a source map exposure in the npm distribution. It is maintained for **educational, defensive security research, and software supply-chain analysis**.
 
 ---
