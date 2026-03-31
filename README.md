@@ -175,7 +175,7 @@ No proprietary claims are made over any external systems or codebases.
 
 ## 👤 Maintained By
 
-**0xKarl**  
+**0xKarl:**  https://x.com/0xKarl
 Project Lead — Claw Codes  
 
 ---
@@ -184,7 +184,7 @@ Project Lead — Claw Codes
 
 For questions, discussions, or collaboration:
 
-👉 Telegram: https://t.me/YOUR_TELEGRAM_USERNAME  
+👉 Telegram: https://t.me/Carl_Crypt  
 
 Feel free to reach out if you’re interested in:
 
